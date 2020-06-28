@@ -1,2 +1,2 @@
-# primeiro-rep-
+# Estudando JS primeiro-rep-
 Aprendendo github
